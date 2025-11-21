@@ -1,0 +1,7 @@
+{    "uzytkownicy":
+    [
+        {"nazwa" : "AAA", "haslo" : "111"},
+        {"nazwa" : "BBB", "haslo" : "222"},
+        {"nazwa" : "CCC", "haslo" : "333"}
+    ]
+}
