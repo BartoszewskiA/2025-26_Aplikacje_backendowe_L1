@@ -1,0 +1,20 @@
+{
+    "uzytkownicy": [
+        {
+            "nazwa": "Jan",
+            "haslo": 3421846044
+        },
+        {
+            "nazwa": "Nowak",
+            "haslo": 2286445522
+        },
+        {
+            "nazwa": "Ola",
+            "haslo": 2615402659
+        },
+        {
+            "nazwa": "AB",
+            "haslo": 2286445522
+        }
+    ]
+}
